@@ -3,31 +3,31 @@
     "description": "Simple Calculator Widget",
     "newInstancePrefix": "calculatorwidget",
     "eula": "",
-    "vendor": "KumarTest",
+    "vendor": "kumarkalpat",
     "license": "",
     "id": "calculatorwidget",
     "version": "1.0.1",
     "icon": "",
-    "vendor": "KumarTest",
+    "vendor": "kumarkalpat",
     "webcomponents": [
         {
             "kind": "main",
             "tag": "calculator-widget",
-            "url": "https://kumarkalpat.github.io/CustomWidgets/myFirstCW/CalculatorWidget.js",
+            "url": "https://kumarkalpat.github.io/calcWidget/CalculatorWidget.js",
             "integrity": "",
             "ignoreIntegrity": true
         },
         {
             "kind": "styling",
             "tag": "com-sap-sample-calculator-styling",
-            "url": "https://kumarkalpat.github.io/CustomWidgets/myFirstCW/style-panel.js",
+            "url": "https://kumarkalpat.github.io/calcWidget/style-panel.js",
             "integrity": "",
             "ignoreIntegrity": true
         },
         {
             "kind": "builder",
             "tag": "com-sap-sample-calculator-builder",
-            "url": "https://kumarkalpat.github.io/CustomWidgets/myFirstCW/builder-panel.js",
+            "url": "https://kumarkalpat.github.io/calcWidget/builder-panel.js",
             "integrity": "",
             "ignoreIntegrity": true
         }
